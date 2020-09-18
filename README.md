@@ -1,2 +1,3 @@
 # Resume
-My latest Resume
+Working on hosting my latest Resume on Github Pages.
+Work in Progress...
